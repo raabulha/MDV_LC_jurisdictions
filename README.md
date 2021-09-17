@@ -15,7 +15,7 @@ The boundary lines are drawn from geo-referenced pdf maps, provided with each Pr
 
 ### Data files
 
-**version 1:** This version accounts for all changes upto Decree 2021/5 and is named MDV_LC_jurisdictions_v1 (kml and shapefiles). These files are in folder data/MDC_LC_v1 of this repository. 
+**version 1:** This version accounts for all changes upto Decree 2021/5 and is named MDV_LC_jurisdictions_v1 (kml and shapefiles). These files are in folder [data/v1](https://github.com/raabulha/MDV_LC_jurisdictions/tree/main/data/v1) of this repository. 
 
 ### Data usage
 
