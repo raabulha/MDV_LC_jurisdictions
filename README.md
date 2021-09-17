@@ -11,7 +11,7 @@ The boundary lines are drawn from geo-referenced pdf maps, provided with each Pr
 * [2020/4 - (Government Gazette, Vol. 49, No. 184, 3rd September 2020)](https://www.gazette.gov.mv/gazette/download/5837): This amended a specific case of 2020/3, by including N. Holhumeedhoo within the jurisdictional boundary of N. Holhudhoo
 * [2021/2 - (Government Gazette, Vol. 50, No. 124, 28th April 2021)](https://www.gazette.gov.mv/gazette/download/6073): This amended a specific case of 2020/3, by excluding L. Thun'buri from the jurisdictional boundary of L. Dhan'bidhoo
 * [2021/4 - (Government Gazette, Vol. 50, No. 248, 25th August 2021)](https://www.gazette.gov.mv/gazette/download/6197): This decree excludes R. Gaaun'doodhoo from the jurisdictional boundary of R. Hulhudhuffaaru.
-* [2021/5 - (Government Gazette, Vol. 50, No. 252 - 29the August 2021)](https://www.gazette.gov.mv/gazette/download/6201): This decree excludes part of HA. Filladhoo - named Dhapparu, from the jurisdictional boundary of HA. Filladhoo
+* [2021/5 - (Government Gazette, Vol. 50, No. 252 - 29th August 2021)](https://www.gazette.gov.mv/gazette/download/6201): This decree excludes part of HA. Filladhoo - named Dhapparu, from the jurisdictional boundary of HA. Filladhoo
 
 ### Data files
 
