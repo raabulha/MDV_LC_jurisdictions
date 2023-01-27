@@ -1,4 +1,5 @@
-###NOTE: ### This repository and data it hold is now out of date - maintenance of this dataset has been stopped as the government has now released official GIS datasets for the Maldives. You can access them from here >> http://readme.onemap.mv/
+### NOTE:
+This repository and data it hold is now out of date - maintenance of this dataset has been stopped as the government has now released official GIS datasets for the Maldives. You can access them from here >> http://readme.onemap.mv/
 
 
 # Unofficial Jurisdictional Boundaries of Administrative local councils as per Act on Decentralization of the Administrative Divisions of the Maldives (law number: 7/2010)
