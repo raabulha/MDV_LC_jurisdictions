@@ -1,3 +1,6 @@
+###NOTE: ### This repository and data it hold is now out of date - maintenance of this dataset has been stopped as the government has now released official GIS datasets for the Maldives. You can access them from here >> http://readme.onemap.mv/
+
+
 # Unofficial Jurisdictional Boundaries of Administrative local councils as per Act on Decentralization of the Administrative Divisions of the Maldives (law number: 7/2010)
 
 This repository holds unofficial digital maps of jurisdictional boundaries of administrative Island and City Councils published through several Presidential decrees, Act on Decentralization of the Administrative Divisions of the Maldives [(law number: 7/2010)](https://www.mvlaw.gov.mv/pdf/ganoon/chapterI/7-2010.pdf), following the [8th amendment to the act through 24/2019](https://www.mvlaw.gov.mv/pdf/ganoon/chapterI/24-2019.pdf). At least 5 decrees have been published since the initial decree [(2020/2)](https://www.gazette.gov.mv/gazette/download/5697), with some minor and major changes to jurisdictional boundary of some local councils. These changes are reflected in this dataset, up to 15th September 2021 (see details below). I intend to keep track of any future changes, and update the map files in this repository, with change logs - until official GIS compatible shapefiles are released. 
